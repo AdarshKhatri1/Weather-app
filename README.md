@@ -20,4 +20,4 @@ In this app you search search weather all the places over the globe, also you wi
 # Images
 
 ### Search Result
-![image](https://github.com/AdarshKhatri1/Weather-app/blob/master/Ss/Home%20Page.png)
+![image](https://github.com/AdarshKhatri1/Weather-app/blob/master/Ss/Search%20Result.png)
